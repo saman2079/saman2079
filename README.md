@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Saman 👋
 
-<!--
-**saman2079/saman2079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Front-End Developer**  
+⚛️ Focused on **React, Next.js, and TypeScript**  
+🚀 Building real-world web applications and continuously improving my skills.
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,npm,docker,postgres,prisma" alt="Tech stack icons" />
+</p>
+
+### 🚧 What I'm working on
+
+- 🛠️ Building **Bank Abzar**, a Persian RTL e-commerce store.
+- 🌱 Improving my skills in modern React, Next.js, and full-stack development.
+
+### 🔗 Find me
+
+- [GitHub Projects](https://github.com/saman2079?tab=repositories)
+- [Portfolio Repository](https://github.com/saman2079/portfolio)
+
+---
+*Always learning, building, and shipping.*

@@ -7,7 +7,7 @@
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,npm,docker,postgres,prisma&perline=7" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,npm,docker,postgres,prisma,mongodb,nginx&perline=7" alt="Tech stack icons" />
 </p>
 
 ### 🚧 What I'm working on
